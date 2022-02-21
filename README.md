@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @flima21
 - 👀 I’m interested in Machine Learning e Web Development
 - 🌱 I’m currently learning PHP, Java and Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me felipe.pedroso2108@gmail.com
 
 <!---
