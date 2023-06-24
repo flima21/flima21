@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flima21
-- 👀 I’m interested in Machine Learning e Web Development
-- 🌱 I’m currently learning PHP, Java and Python
+- 👀 I’m interested in Machine Learning, DataScience and DataAnalytics
+- 🌱 I'm specialist in Python, SQL Server, MySQL, Oracle Database, R Language, Julia
 - 📫 How to reach me felipe.pedroso2108@gmail.com
 - 📫 Actually working at JPTI (http://www.jpti.com.br/)
 
