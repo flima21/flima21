@@ -9,6 +9,11 @@ Meu nome é Felipe Pedroso de Lima, e sou um entusiasta da ciência de dados apa
 💼 Meu Background:
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e uma paixão por resolver problemas complexos usando dados. Atualmente, sou responsável pela administração do banco de dados da empresa [JPTI](www.jpti.com.br) cujo realizado ETL, migração e criação de BI para disponibilização das informações a diretoria da empresa do Grupo Cervejaria Império.
 
+💼 Minhas certificações: 
+- Certificado Oracle Cloud Infrastructure 2023 Foundations Associate (1Z0-1085-23) (Oracle)
+- Oracle Cloud Data Management 2023 Certified Foundations Associate (Oracle)
+- Programming for Everybody (Getting Started with Python) (Univerisidade de Michigan)
+
 🤝 Vamos Conectar:
 Se você é um entusiasta da ciência de dados, um estudante ou um profissional em busca de colaborações ou discussões, fique à vontade para entrar em contato comigo. Estou sempre aberto a novas conexões e oportunidades de aprendizado mútuo.
 
