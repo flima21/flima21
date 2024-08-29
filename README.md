@@ -1,27 +1,53 @@
-👋 Hello World!
+<h4 align="left">Meu nome é Felipe Pedroso de Lima, e sou um entusiasta da ciência de dados apaixonado por explorar e extrair insights valiosos a partir de dados. Este repositório serve como um espaço onde compartilho meus projetos, análises e experimentos relacionados à ciência de dados e desenvolvimento.</h4>
 
-Meu nome é Felipe Pedroso de Lima, e sou um entusiasta da ciência de dados apaixonado por explorar e extrair insights valiosos a partir de dados. Este repositório serve como um espaço onde compartilho meus projetos, análises e experimentos relacionados à ciência de dados e desenvolvimento.
+###
 
-🔍 O que você encontrará aqui:
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flima21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Linguagens" height="150" alt="languages graph"  />
+</div>
 
-- **Notebooks e Tutoriais**: Encontre Jupyter notebooks e tutoriais que explicam conceitos-chave da ciência de dados e mostram como aplicá-los em cenários práticos. É uma ótima maneira de aprender e aprimorar suas habilidades.
+###
 
-💼 Meu Background:
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas e uma paixão por resolver problemas complexos usando dados. Atualmente, sou responsável pela administração do banco de dados da empresa [JPTI](www.jpti.com.br) cujo realizado ETL, migração e criação de BI para disponibilização das informações a diretoria da empresa do Grupo Cervejaria Império.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+</div>
 
-💼 Minhas certificações: 
-- Certificado Oracle Cloud Infrastructure 2023 Foundations Associate (1Z0-1085-23) (Oracle)
-- Oracle Cloud Data Management 2023 Certified Foundations Associate (Oracle)
-- Programming for Everybody (Getting Started with Python) (Univerisidade de Michigan)
+###
 
-🤝 Vamos Conectar:
-Se você é um entusiasta da ciência de dados, um estudante ou um profissional em busca de colaborações ou discussões, fique à vontade para entrar em contato comigo. Estou sempre aberto a novas conexões e oportunidades de aprendizado mútuo.
+<div align="left">
+  <a href="felipe.pedroso2108@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-lima-294703202/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-📬 Como Entrar em Contato:
- - [LinkedIn](https://www.linkedin.com/in/felipe-lima-294703202/)
- - [E-mail](felipe.pedroso2108@gmail.com)
+###
 
-Agradeço por visitar meu repositório e espero que encontre recursos úteis para sua jornada na ciência de dados. Sinta-se à vontade para explorar os projetos, fazer perguntas e compartilhar seus próprios insights. Vamos colaborar para impulsionar o poder dos dados!
+<br clear="both">
 
-Atenciosamente,
-Felipe Pedroso de Lima.
+<img src="https://raw.githubusercontent.com/flima21/flima21/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+</div>
+
+###
